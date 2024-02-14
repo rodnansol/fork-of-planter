@@ -1,4 +1,4 @@
-module github.com/achiku/planter
+module github.com/rodnansol/fork-of-planter
 
 go 1.21
 
